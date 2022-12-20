@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning new languages and frameworks
 - 💞️ I’m looking to collaborate on great products
-- 📫 roberto.conterosito@gmail.com
 
 <!---
 RoBYCoNTe/RoBYCoNTe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
